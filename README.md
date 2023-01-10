@@ -1,6 +1,5 @@
 - Hi, I’m Dmitriy
-- I’m interested in Java programming
-- Currently learning Spring framework
+- I'm interested in web development
 - How to reach me : eggnom@yandex.ru
 
 <!---
